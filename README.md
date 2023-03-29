@@ -1,12 +1,15 @@
 ### 🐮 About Me
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/nord_bright/0-profile-details.svg" height="190px"/>
+  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/nord_bright/0-profile-details.svg" width="100%"/>
 </a>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg" height="190px"/>
+  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg" width="49.75%"/>
 </a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/nord_bright/3-stats.svg" width="49.75%"/>
 
 ### ⌨️ Languages and Tools
 <div>
