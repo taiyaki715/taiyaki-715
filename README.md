@@ -1,3 +1,11 @@
+# Hi there, I'm Taiki Ishikawa 👋🐮
+I'm a 4th-year undergraduate student at Tokyo University of Technology, conducting research on neural networks.
+
+Currently, I am also working as an intern and focusing on web development.
+### 🔭 Interests
+- Web Development
+- Neural Networks
+- Machine Learning
 ### ❤️ I love coding with ...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
