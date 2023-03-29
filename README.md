@@ -55,5 +55,6 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=taiyaki-715&show_icons=true" width="59.5%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&height=150px" width="39.5%" />
+    <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
   </div>
 </div>
