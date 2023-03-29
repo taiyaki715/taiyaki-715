@@ -10,7 +10,8 @@
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/slateorange/3-stats.svg" width="49.75%"/>
-
+</a>
+  
 ### ⌨️ Languages and Tools
 <div>
 <!--   frontend -->
