@@ -1,5 +1,6 @@
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31isk6cljxxjnbecdrfx5ezkr5ji&count=1" width="50%" />
 <div>
-  <h1>Hi there, I'm Taiki Ishikawa 👋🐮</h1>
+  <h1 style="color:red">Hi there, I'm Taiki Ishikawa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>🐮</h1>
   <p>I'm a 4th-year undergraduate student at Tokyo University of Technology, conducting research on neural networks.</p>
   <p>Currently, I am also working as an intern and focusing on web development.</p>
 </div>
