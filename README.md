@@ -53,7 +53,7 @@
 <div>
   <h2>🖥️ My GitHub Status</h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=taiyaki-715&show_icons=true" height="200px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&height=150px" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=taiyaki-715&show_icons=true" width="59.5%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&height=150px" width="39.5%" />
   </div>
 </div>
