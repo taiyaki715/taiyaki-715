@@ -1,16 +1,4 @@
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/default/0-profile-details.svg" width="100%"/>
-</a>
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/default/2-most-commit-language.svg" width="49.75%"/>
-</a>
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/default/3-stats.svg" width="49.75%"/>
-</a>
-  
-### ⌨️ Languages and Tools
+### ❤️ I love coding with ...
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,6 +34,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
@@ -53,6 +42,17 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🖥️ My GitHub Status
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/default/0-profile-details.svg" width="100%"/>
+</a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/default/2-most-commit-language.svg" width="49.75%"/>
+</a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://raw.githubusercontent.com/taiyaki-715/taiyaki-715/master/profile-summary-card-output/default/3-stats.svg" width="49.75%"/>
+</a>
