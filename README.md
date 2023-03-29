@@ -2,7 +2,7 @@
 I'm a 4th-year undergraduate student at Tokyo University of Technology, conducting research on neural networks.
 
 Currently, I am also working as an intern and focusing on web development.
-### 🔭 Interests
+### 🔭 I'm interested in ...
 - Web Development
 - Neural Networks
 - Machine Learning
