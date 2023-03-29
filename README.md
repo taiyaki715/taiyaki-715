@@ -1,4 +1,3 @@
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31isk6cljxxjnbecdrfx5ezkr5ji&count=1" width="50%" />
 <div>
   <h1 style="color:red">Hi there, I'm Taiki Ishikawa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>🐮</h1>
   <p>I'm a 4th-year undergraduate student at Tokyo University of Technology, conducting research on neural networks.</p>
@@ -58,4 +57,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&height=150px" width="39.5%" />
     <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
   </div>
+</div>
+<div>
+  <h2>🎧 I'm listening to ...</h2>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31isk6cljxxjnbecdrfx5ezkr5ji&count=1" />
 </div>
