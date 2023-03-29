@@ -27,13 +27,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width=40/>
   
+<!-- package manager -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=40/>
+  
   
 <!--   ml -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width=40/>
 
 <!--   quality -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width=40/>
@@ -46,7 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width=40/>
 
 <!--   os -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=40/>
 
 <!--  hardware  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width=40/>
@@ -56,4 +63,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" width=40/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width=40/>
+  
+<!--  VC  -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width=40/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=40/>
 </div>
