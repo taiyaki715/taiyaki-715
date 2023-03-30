@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=taiyaki-715&style=flat-square" />
 <div>
   <h1 style="color:red">Hi there, I'm Taiki Ishikawa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>🐮</h1>
   <p>I'm a 4th-year undergraduate student at Tokyo University of Technology, conducting research on neural networks.</p>
